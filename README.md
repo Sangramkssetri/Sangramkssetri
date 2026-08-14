@@ -21,41 +21,15 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-<!-- Remove any badges that don't match your stack, or add more from https://shields.io -->
+| Category | Skills |
+|---|---|
+| **Generative AI** | <kbd>LLMs</kbd> <kbd>RAG</kbd> <kbd>Prompt Engineering</kbd> <kbd>Multi-agent Orchestration</kbd> <kbd>Transformers</kbd> <kbd>Embeddings & Vector Search</kbd> |
+| **Languages** | <kbd>Python</kbd> <kbd>SQL (PostgreSQL)</kbd> <kbd>R</kbd> |
+| **Frameworks & Tools** | <kbd>FastAPI</kbd> <kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>MCP</kbd> <kbd>Git</kbd> |
+| **Libraries** | <kbd>TensorFlow</kbd> <kbd>scikit-learn</kbd> <kbd>pandas</kbd> <kbd>NumPy</kbd> <kbd>matplotlib</kbd> <kbd>seaborn</kbd> |
+| **Visualization** | <kbd>Power BI</kbd> <kbd>Tableau</kbd> |
 
-## 📌 Featured Projects
-
-- **[Multi-Agent Voice Support System](https://github.com/Sangramkssetri/Multi-Agent-Voice-Support-System)** — a browser-based voice call center where a triage agent routes callers to specialist agents that resolve requests with real tool calls, policy checks, and cross-call memory. *LiveKit · Deepgram · Cartesia · LangGraph · MCP · LanceDB · FastAPI*
-- **[CMCA Publication Audit](https://github.com/Sangramkssetri/CMCA-Publication-Audit)** — RAG-based publication auditing system for Microscopy Australia. Began as my Master's capstone; now improved, deployed as a FastAPI service, and in ongoing use by the team.
-- **[Modeling Textual Entailment](https://github.com/Sangramkssetri/Modeling-Textual-Entailment-with-RNN-Attention-and-Transformers)** — comparative analysis of recurrent cross-attention and Transformer encoders on the Natural Language Inference task.
-- **[Temperature Forecasting & Sequence Generation](https://github.com/Sangramkssetri/Temperature-Forecasting-and-Sequence-Generation)** — forecasting and sequence generation with GRU models and a VAE on 80+ years of Western Australia climate data (1944–2025).
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sangramkssetri&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangramkssetri&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Sangramkssetri&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-## 🤝 Connect With Me
+## 🤝 Contact
 
 <p>
   <a href="https://sangramkssetri.github.io"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
