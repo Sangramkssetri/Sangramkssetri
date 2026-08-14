@@ -16,7 +16,7 @@
 - 💼 **AI Engineering Intern @ OmniPulse** - building LLM-powered agents and automation workflows.
 - 🔬 Developed a **RAG-based publication auditing system for Microscopy Australia** - Began as my Master's capstone, I then volunteered to improve the pipeline and deployed it as a **FastAPI service** for the team's ongoing use.
 - 🎓 **Master of Data Science**, University of Western Australia · **B.Tech in Computer Engineering**, Marwadi University
-- 🛠️ Hands-on with **Python, SQL, machine learning, deep learning, NLP, and LLM-powered applications** - RAG, agentic workflows, and voice-based systems
+- 🛠️ Hands-on with **Python, SQL, machine learning, deep learning, NLP, and LLM-powered applications, RAG, agentic workflows, and voice-based systems**
 - 📫 Email: **sangramroka07@gmail.com**
 
 ## 🛠️ Tech Stack
