@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sangram</h1>
+<h1 align="center">Hi 👋, I'm Sangram</h1>
 <h3 align="center">I build AI systems.</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
 - 💼 **AI Engineering Intern @ OmniPulse** — building an agentic voice interview system
 - 🔬 Developed a **RAG-based publication auditing system for Microscopy Australia** — began as my Master's capstone; I then volunteered to improve the pipeline and deployed it as a **FastAPI service** for the team's ongoing use
@@ -38,23 +38,6 @@
 <!-- Remove any badges that don't match your stack, or add more from https://shields.io -->
 
 ## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Sangramkssetri/Multi-Agent-Voice-Support-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangramkssetri&repo=Multi-Agent-Voice-Support-System&theme=tokyonight&hide_border=true" alt="Multi-Agent Voice Support System" />
-  </a>
-  <a href="https://github.com/Sangramkssetri/CMCA-Publication-Audit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangramkssetri&repo=CMCA-Publication-Audit&theme=tokyonight&hide_border=true" alt="CMCA Publication Audit" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Sangramkssetri/Modeling-Textual-Entailment-with-RNN-Attention-and-Transformers">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangramkssetri&repo=Modeling-Textual-Entailment-with-RNN-Attention-and-Transformers&theme=tokyonight&hide_border=true" alt="Textual Entailment project" />
-  </a>
-  <a href="https://github.com/Sangramkssetri/Temperature-Forecasting-and-Sequence-Generation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sangramkssetri&repo=Temperature-Forecasting-and-Sequence-Generation&theme=tokyonight&hide_border=true" alt="Temperature Forecasting project" />
-  </a>
-</p>
 
 - **[Multi-Agent Voice Support System](https://github.com/Sangramkssetri/Multi-Agent-Voice-Support-System)** — a browser-based voice call center where a triage agent routes callers to specialist agents that resolve requests with real tool calls, policy checks, and cross-call memory. *LiveKit · Deepgram · Cartesia · LangGraph · MCP · LanceDB · FastAPI*
 - **[CMCA Publication Audit](https://github.com/Sangramkssetri/CMCA-Publication-Audit)** — RAG-based publication auditing system for Microscopy Australia. Began as my Master's capstone; now improved, deployed as a FastAPI service, and in ongoing use by the team.
