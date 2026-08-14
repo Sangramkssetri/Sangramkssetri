@@ -2,7 +2,7 @@
 <h3 align="center">I build AI systems.</h3>
 
 <p align="center">
-  AI Engineering Intern @ <b>OmniPulse</b> · Agentic AI · RAG · Voice · NLP
+  AI Engineering Intern @ <b>OmniPulse</b> AI | ML | NLP | RAG | AI Agents & LLM Applications
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-- 💼 **AI Engineering Intern @ OmniPulse** — building an agentic voice interview system
-- 🔬 Developed a **RAG-based publication auditing system for Microscopy Australia** — began as my Master's capstone; I then volunteered to improve the pipeline and deployed it as a **FastAPI service** for the team's ongoing use
+- 💼 **AI Engineering Intern @ OmniPulse** - building LLM-powered agents and automation workflows.
+- 🔬 Developed a **RAG-based publication auditing system for Microscopy Australia** - Began as my Master's capstone, I then volunteered to improve the pipeline and deployed it as a **FastAPI service** for the team's ongoing use.
 - 🎓 **Master of Data Science**, University of Western Australia · **B.Tech in Computer Engineering**, Marwadi University
-- 🛠️ Hands-on with **Python, SQL, machine learning, deep learning, NLP, and LLM-powered applications** — RAG, agentic workflows, and voice-based systems
-- 📫 Reach me at **sangramroka07@gmail.com**
+- 🛠️ Hands-on with **Python, SQL, machine learning, deep learning, NLP, and LLM-powered applications** - RAG, agentic workflows, and voice-based systems
+- 📫 Email: **sangramroka07@gmail.com**
 
 ## 🛠️ Tech Stack
 
