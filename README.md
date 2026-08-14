@@ -28,16 +28,6 @@
 | **Frameworks & Tools** | <kbd>FastAPI</kbd> <kbd>LangGraph</kbd> <kbd>LangChain</kbd> <kbd>MCP</kbd> <kbd>Git</kbd> |
 | **Libraries** | <kbd>TensorFlow</kbd> <kbd>scikit-learn</kbd> <kbd>pandas</kbd> <kbd>NumPy</kbd> <kbd>matplotlib</kbd> <kbd>seaborn</kbd> |
 | **Visualization** | <kbd>Power BI</kbd> <kbd>Tableau</kbd> |
-
-## 🤝 Contact
-
-<p>
-  <a href="https://sangramkssetri.github.io"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sangramroka07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-<!-- TODO: replace YOUR-LINKEDIN with your real LinkedIn URL -->
-
 ---
 
 <p align="center">
