@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sangram</h1>
+<h1 align="center">Hi, I'm Sangram</h1>
 <h3 align="center">I build AI systems.</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💼 **AI Engineering Intern @ OmniPulse** — building an agentic voice interview system
 - 🔬 Developed a **RAG-based publication auditing system for Microscopy Australia** — began as my Master's capstone; I then volunteered to improve the pipeline and deployed it as a **FastAPI service** for the team's ongoing use
